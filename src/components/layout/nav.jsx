@@ -8,9 +8,9 @@ export const Nav = () => {
         <div className="flex items-center justify-between h-16">
           <a href="/" className="flex items-center space-x-3">
             <div className="w-9 h-9 bg-indigo-600 text-white rounded-md flex items-center justify-center font-semibold">
-              TD
+              LS
             </div>
-            <span className="text-lg font-semibold text-gray-800">THRIFT DISTRICT</span>
+            <span className="text-lg font-semibold text-gray-800">LAPTOP STORES</span>
           </a>
 
           <nav className="hidden md:flex md:items-center md:space-x-6">

@@ -8,25 +8,24 @@ export const Features = () => {
     <div  className='flex flex-col md:flex-row justify-center items-center md:items-start space-y-6 md:space-y-0 md:space-x-10 p-10 bg-(--secondary-color) text-(--text-color)'>
         <div>
 
-            <img src={featureImage} className=' rounded-2xl' />
+            <img src={featureImage} alt="featured laptop" className=' rounded-2xl' />
         </div>
         <div className=' text-2xl my-1 md:text-3xl lg:mt-23 space-y-4'>
-            <h2 className='font-bold'>Get yourself a fashionable drip</h2>
+            <h2 className='font-bold'>Find the perfect laptop for your needs</h2>
             <br/>
-            <p>Discover unique styles at unbeatable prices in our thrift shop. 
-            </p>
+            <p>Browse our curated selection of laptops — from ultraportables to powerful workstations — chosen for reliability, performance, and value.</p>
                 <ul>
                     <li>
-                        • Sustainable fashion choices   
+                        • Fast SSD storage and responsive performance
                     </li>
                     <li>
-                        • Affordable prices
+                        • Long battery life for work on the go
                     </li>
                     <li>
-                        • Unique, one-of-a-kind items
+                        • Lightweight, durable designs
                     </li>
                     <li>
-                        • Quality checked products
+                        • Warranty and reliable customer support
                     </li>
                 </ul>
                  

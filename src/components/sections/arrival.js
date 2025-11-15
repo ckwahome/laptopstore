@@ -1,22 +1,22 @@
 export const newProducts=[
     {
         id:1,
-        name:"Blue Denim rugged Jeans",
-        imgUrl:'https://i.pinimg.com/736x/35/1b/0f/351b0f489e85a821c5ebf5a51836e95e.jpg' //string
+        name:"MacBook Air 13 (2020, Intel) - Silver",
+        imgUrl:'https://i.pinimg.com/1200x/78/bf/a8/78bfa893270a0b531705b1c56f25674d.jpg'
     },
      {
         id:2,
-        name:"black Jeans",
-        imgUrl:'https://i.pinimg.com/736x/09/8d/1a/098d1abb6ebeb43d66f0956152224b7b.jpg' //string
+        name:"HP Pavilion 15-eg1053cl 15.6'' - Silver",
+        imgUrl:'https://i.pinimg.com/736x/23/8f/0e/238f0ea947a5299d3145a6d096eea025.jpg'
     },
      {
         id:3,
-        name:"jots",
-        imgUrl:'https://i.pinimg.com/1200x/f9/3f/94/f93f940a522304752c1bbad035377e00.jpg' //string
+        name:"Lenovo IdeaPad 3 14 - Slate",
+        imgUrl:'https://i.pinimg.com/1200x/ac/1c/6b/ac1c6b6346e6493dfb2dc0dc332b59ba.jpg'
     },
        {
         id:5,
-        name:"buggy Jeans 2",
-        imgUrl:'https://i.pinimg.com/736x/30/10/b2/3010b29aa4b1fab732c68dd8f4709399.jpg' //string
+        name:"Dell Latitude Laptop - Black",
+        imgUrl:'https://i.pinimg.com/736x/60/d2/fa/60d2fa31376bac51b5b7e03932d4d715.jpg'
     },
 ];
